@@ -17,7 +17,7 @@ const Navbar = () => {
     <nav className="bg-background border-b py-4 px-4 sm:px-6 sticky top-0 z-50">
       <div className="max-w-7xl mx-auto">
         <div className="flex justify-between items-center">
-          <Link to="/" className="text-xl font-bold">Prince Kumar</Link>
+          <Link to="/" className="text-xl font-bold">PR!nce</Link>
           
           {/* Mobile menu button */}
           <button 
